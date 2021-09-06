@@ -47,7 +47,7 @@ public class Main {
         }
         System.out.println();
         double sum = 0.0;
-        for (TaxPayer tp : list) { // for feito pra mostra soma
+        for (TaxPayer tp : list) { // for feito pra mostrar soma
             sum += tp.tax();
         }
         System.out.println();
