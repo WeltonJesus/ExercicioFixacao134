@@ -8,7 +8,7 @@ Programa desenvolvido com auxilio do Professor Anélio do curso Udemy
 
 .Tive que entender melhor que cada classe usaria seu método de cálculo de Tax, e não na classe TaxPayer que neste caso serve como Herança Total.
 
-.Traduzo sempre as palavras usando o google tradutor, para ir desenvolvendo mue inglês.
+.Traduzo sempre as palavras que não sei para desenvolver o programa usando o google tradutor, para ir desenvolvendo meu inglês.
 
 .Também neste programa  utilizei o método Ternário (?) (:)
 
